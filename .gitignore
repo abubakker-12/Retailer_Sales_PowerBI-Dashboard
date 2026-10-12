@@ -1,0 +1,9 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore temporary Power BI cache
+*.tmp
+*.pbi
+
+# Ignore standard Python cache
+**/__pycache__/
